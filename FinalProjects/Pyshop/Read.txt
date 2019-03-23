@@ -1,0 +1,20 @@
+Django --> is python frame work
+Webapplicatio
+
+library of reusable module
+
+structure for application showing what folders and files we should have in project
+
+to indtall django frame work:
+pip install django==2.1
+
+to setup django in your project:
+django-admin startproject pyshop .
+
+to start server:
+python manage.py runserver
+
+to start an app:
+python manage.py startapp products --> creates new folder/package in your project this can be reusable across different projects
+
+Model: actual real world structure eg : order , product etc
