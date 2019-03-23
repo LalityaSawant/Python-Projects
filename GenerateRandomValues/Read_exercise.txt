@@ -1,0 +1,4 @@
+Clas Dice
+    Method: roll() gives tuple
+
+run the program to get random 2 dice throws

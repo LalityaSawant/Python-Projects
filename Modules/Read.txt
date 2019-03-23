@@ -1,0 +1,10 @@
+modules are used to put code in appropriate sections / buckets
+and is called by usig import in required file
+
+there are 2 ways to import the modules
+
+1. import modulename --> this will import the complete module
+    and can be accessd as modulename.methos()
+
+2. from modulename import methodname --> this will only import required method
+    and can be assed directly as methodname()

@@ -1,0 +1,11 @@
+Packages are great for organizing code
+
+eg : in shop you have sections like Men Women Kids
+here sections can be packages
+
+then each package can have further Modules like T-shirt Shoes Jackets
+
+there are different ways of importing packages as shown in program
+1. import complete package --> access via packagename.Modulename.methodname Eg: import ecommerce.shipping
+2. import specific module from package --> access via modulename.metjodname Eg: from ecommerce import shipping
+3. import specific methods from packae.module --> access directly by modulename Eg: from ecommerce.shipping import calc_shipping, calc_tax

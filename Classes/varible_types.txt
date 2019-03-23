@@ -1,0 +1,11 @@
+Numbers
+strings
+Booleans
+---
+List
+Dictionaries
+
+Classes are used to create complex datatypes - variables like shopping cart or address etc
+
+Classes are blue print and we need to create its objects to use the classes same as Java
+Classes can have methods and variables

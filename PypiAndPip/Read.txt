@@ -1,0 +1,5 @@
+https://pypi.org/ is a community where coders release their packages for others to use not all projects are complete or bug free
+
+go to required package and click on it
+copy the command eg: pip install openpyxl
+run on pycharm's terminal window

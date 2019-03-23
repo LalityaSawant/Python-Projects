@@ -1,0 +1,15 @@
+Inheritance is Object oriented concept, same as Java
+
+eg : Parent child relationship
+
+eg of bad code: corrected in code by Inheritance
+
+class Dog:
+    def walk(self):
+        print("walk")
+
+
+class Cat:
+    def walk(self):
+        print("walk")
+

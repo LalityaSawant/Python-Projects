@@ -1,0 +1,10 @@
+Construction is a function which gets called at the time of creating an object
+eg: point = Point()
+
+constructor is added in Class as a special method
+
+eg: Below is the constructor
+
+    def __init__(self,x,y):
+        self.x = x
+        self.y = y
